@@ -83,6 +83,11 @@
     - Help in identifying and organizing system requirements.
     - Facilitate communication among stakeholders and development team.
 
+### Example: Booking System Use Case Diagram
+The diagram below illustrates a simple **Booking System** with its primary actors and use cases:
+
+![Booking System Use Case](./alx-booking-uc.png)
+
 ---
 
 ## Acceptance Criteria. ✅
